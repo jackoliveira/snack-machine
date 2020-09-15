@@ -39,7 +39,7 @@ public class SnackMachineApplication {
 	InitializingBean populateDatabase() {
 		return () -> {
 			Company companyVoll = new Company("1", "Voll", "USD", 50F, Collections.emptyList());
-			Company company404 = new Company("2", "Senior", "BRL", 30F, Collections.emptyList());
+			Company company404 = new Company("2", "404", "BRL", 30F, Collections.emptyList());
 
 			companyRepository.save(companyVoll);
 			companyRepository.save(company404);
