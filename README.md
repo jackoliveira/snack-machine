@@ -10,6 +10,9 @@ A API deve disponibilizar as seguintes funcionalidades:
 
   - Exibição e Recarga de saldo.
   - Simulação da Compra de Snacks.
+  
+## Arquitetura Cloud
+ - [CloudCraft](https://app.cloudcraft.co/view/03289a49-ccc4-4c19-a746-b0532d3e165d?key=zZvLaeXSbgfebzX8W09S8Q)
 
 Tecnologias utilizadas
   - Java;
