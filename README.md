@@ -1,7 +1,6 @@
 # Desafio Voll
 
-Tarefa: Projetar esse novo sistema em nuvem que irá substituir o antigo para que as
-        máquinas de Snacks já instaladas nas grandes empresas (clientes) voltem a funcionar.
+Tarefa: Projetar sistema em nuvem para controle de saldo em máquinas de Snacks instaladas nas grandes empresas.
 
 A API deve disponibilizar as seguintes funcionalidades:
 - Mostrar o saldo para o usuário;
